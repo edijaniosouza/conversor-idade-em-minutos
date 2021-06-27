@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CONVERTER IDADE EM MINUTOS</string>
+    <string name="minutos">EM MINUTOS</string>
+    <string name="idade">IDADE</string>
+    <string name="selecione_a_data">SELECIONAR DATA</string>
+    <string name="calcule_sua">CALCULE SUA</string>
+</resources>
